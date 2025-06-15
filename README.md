@@ -8,6 +8,9 @@ npm create vue@latest<br>
 <strong><p>3、进入项目目录(安装依赖)</p></strong>
 npm install
 
+<strong><p>4、一键启动项目</p></strong>
+npm start
+
 
 
 授权逻辑：根据在菜单管理页面配置的权限如权限erp:wh:shelf:add 则可以在组件中加入如下类容,v-hasPerm为权限关键子
