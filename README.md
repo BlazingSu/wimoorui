@@ -5,6 +5,8 @@
   2、安装vue<br>
 npm create vue@latest<br>
 
+<strong><p>package.json 已添加 "type": "module" 以使用 ES 模块，请使用支持 ESM 的 Node 版本。</p></strong>
+
 <strong><p>3、进入项目目录(安装依赖)</p></strong>
 npm install
 
