@@ -1,11 +1,13 @@
 <strong><p>此项目由深圳市万墨信息科技有限公司开发，如果有任何疑问请联系开发团队。</p></strong>
 
+<strong><p>Prerequisites</p></strong>
+Node.js v16+ recommended<br>
+
 <strong><p>1、安装node (注意将Bin添加环境变量Path中)</p></strong>
   1>下载node[](https://nodejs.org/en/download/)<br>
   2、安装vue<br>
 npm create vue@latest<br>
 
-<strong><p>package.json 已添加 "type": "module" 以使用 ES 模块，请使用支持 ESM 的 Node 版本。</p></strong>
 
 <strong><p>3、进入项目目录(安装依赖)</p></strong>
 npm install
