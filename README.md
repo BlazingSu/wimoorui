@@ -8,10 +8,7 @@ Node.js v16+ recommended<br>
   2、安装vue<br>
 npm create vue@latest<br>
 
-<strong><p>Steps</p></strong>
-git clone https://github.com/your/repo.git<br>
-npm install<br>
-npm start<br>
+
 <strong><p>3、进入项目目录(安装依赖)</p></strong>
 npm install
 
