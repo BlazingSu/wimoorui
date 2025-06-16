@@ -394,7 +394,7 @@
 	import ShipmentOpt from"./shipment_operator.vue"
 	import shipmenthandlingApi from '@/api/erp/ship/shipmenthandlingApi.js';
     import transportationApi from '@/api/erp/ship/transportationApi.js';
-	import shipmenthandlingV2Api from '@/api/erp/shipV2/shipmentPlacementApi.js';
+	import shipmenthandlingV2Api from '@/api/erp/shipv2/shipmentPlacementApi.js';
 	import { useRoute,useRouter } from 'vue-router'
 	import {formatFloat,dateFormat,dateTimesFormat,CheckInputInt,CheckInputFloat,CheckALLFloat} from '@/utils/index.js';
 	import { ElMessage,ElMessageBox } from 'element-plus';
